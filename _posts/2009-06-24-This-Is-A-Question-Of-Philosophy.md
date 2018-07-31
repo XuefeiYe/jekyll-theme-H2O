@@ -1,9 +1,8 @@
-
 ---
 layout: post
 title: '哲学？'
 subtitle: '逻辑与不成逻辑的逻辑'
-tags: jekyll
+tags: Life
 cover: ''
 ---
 
